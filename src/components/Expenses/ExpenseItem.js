@@ -9,10 +9,10 @@ const ExpenseItem = (props) => {
 
 
 
-  const ClickHandler = () => {
+ /* const ClickHandler = () => {
     setTitle('updated');
     console.log(title);
-  };
+  };*/
 
   return (
     <li>
@@ -22,7 +22,7 @@ const ExpenseItem = (props) => {
           <h2>{title}</h2>
           <div className="expense-item__price">${props.amount}</div>
         </div>
-        <button onClick={ClickHandler}>Change Title</button>
+       {/*<button onClick={ClickHandler}>Change Title</button>*/}
       </Card>
     </li>
   );
