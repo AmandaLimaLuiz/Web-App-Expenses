@@ -28,5 +28,13 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 
+### `Images` 
+<img align="center" alt="tela" height="250" width="300" src="https://github.com/AmandaLimaLuiz/Web-App-Expenses/blob/main/img/tela1.png"> 
+<img align="center" alt="tela" height="250" width="300" src="https://github.com/AmandaLimaLuiz/Web-App-Expenses/blob/main/img/tela2.png">
+
+
+</br> ![expenses.gif](https://github.com/AmandaLimaLuiz/Web-App-Expenses/blob/main/img/tela-gif.gif)
+
+
 
 
